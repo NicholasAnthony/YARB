@@ -9,8 +9,8 @@ export default class Hello extends Component {
   render() {
     return (
       <div>
-        <h2>React Logo</h2>
-        <img src={ reactLogo } alt='React Logo' />
+        <h2>YARB :: Yet Another React Boilerplate</h2>
+        <img src={ reactLogo } className='reactLogo' alt='React Logo' />
       </div>
     );
   }
