@@ -1,5 +1,9 @@
-# Setting up Webpack, Babel and React from scratch, revisited
+# YARB: Yet another React Boilerplate
 
-This is example repo for webpack/babel/react tutorial:
+### This is a boilerplate repo for React.js
 
+### Inspired by:
+[https://auth0.com/blog/testing-react-applications-with-jest/](https://auth0.com/blog/testing-react-applications-with-jest/)
 [https://stanko.github.io/webpack-babel-react-revisited](https://stanko.github.io/webpack-babel-react-revisited)
+
+T
