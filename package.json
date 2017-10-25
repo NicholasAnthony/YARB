@@ -2,7 +2,7 @@
   "name": "YARB",
   "author": "Nicholas Anthony Treffiletti",
   "version": "1.0.0",
-  "license": "GNU",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/NicholasAnthony/YARB.git"
